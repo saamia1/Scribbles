@@ -1,5 +1,22 @@
-# How to Run _Scribbles_!
+# Scribbles
 
+Scribbles is a collaborative project developed as part of a Software Engineering course. The project aims to enhance communications amongst healthcare professionals within hospitals.
+
+## Team Members
+
+This project was created by:
+
+- Saamia Shafqat
+- Symbat Bekzhigit
+- Levith Andrade Cuellar
+- Sanjana Nambiar
+
+## About the Project
+
+Scribbles is a Flutter-based healthcare application designed for seamless communication among healthcare professionals. It securely manages patient data, sets reminders for appointments and medications, facilitates emergency paging, and leverages AI for summaries and analyses of patient records.
+
+# Installation
+   
 ## Prerequisites
 In order to run the application you must have the following installed on your computer:
 1. Flutter SDK
@@ -21,3 +38,7 @@ Using the terminal within Visual Studio Code, and by accessing the directory whe
 ### Notes
 - If you run into any issues, try clearing the project's cache by running _flutter clean_ on the Terminal and repeating Steps 4 and 5.
 - If you need further clarification on how to run our project you can read this [article](https://docs.flutter.dev/get-started/install/macos/mobile-ios) which helped when starting out.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
